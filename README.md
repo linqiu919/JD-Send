@@ -17,6 +17,5 @@
 ---
 效果图：
 ![](https://pc.qiuzhong.fun/img/Snipaste_2021-09-13_11-15-32.png)
-![](https://pc.qiuzhong.fun/img/2021091311.jpg)
 
 
