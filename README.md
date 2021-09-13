@@ -16,6 +16,6 @@
 * docker
 
 效果图：
-![](https://pc.qiuzhong.fun/img/Snipaste.png)
+![](https://pc.qiuzhong.fun/img/jd-sned.png)
 
 
