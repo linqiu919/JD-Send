@@ -23,7 +23,7 @@ public class WechatSend {
      */
     public static HttpStatus sendMessage(String oldSendText, Send send){
         HashMap<String, Object> map = new HashMap<>();
-        map.put("token","342063a5fded4f4db90fd4c011e77817");
+        map.put("token","");
         map.put("title","京东账户数据有更新");
         map.put("content","京东用户："+send.getSendDesc()+"\n原状态为："+oldSendText+"\n新状态为："+send.getSendTxt());
         RestTemplate restTemplate = new RestTemplate();
